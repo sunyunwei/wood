@@ -1,0 +1,28 @@
+<div class="m-index">
+  <div class="l-container">
+  </div>
+  <footer>
+    <ul>
+      <li class="active" action-type="switch.tabs" data-tag="home">
+        <i class="yo-ico">&#xe637;</i>
+        <b>首页</b>
+      </li>
+      <li action-type="switch.tabs" data-tag="sort">
+        <i class="yo-ico">&#xe651;</i>
+        <b>分类</b>
+      </li>
+      <li action-type="switch.tabs" data-tag="store">
+        <i class="yo-ico">&#xe646;</i>
+        <b>店铺</b>
+      </li>
+      <li action-type="switch.tabs" data-tag="shopcart">
+        <i class="yo-ico">&#xe7c9;</i>
+        <b>购物车</b>
+      </li>
+      <li action-type="switch.tabs" data-tag="my">
+        <i class="yo-ico">&#xe657;</i>
+        <b>我的</b>
+      </li>
+    </ul>
+  </footer>
+</div>

@@ -1,0 +1,14 @@
+<div class="swiper-container" id="guide-swiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      <img src="/rosewood/images/guide01.jpg">
+    </div>
+    <div class="swiper-slide">
+      <img src="/rosewood/images/guide02.jpg">
+    </div>
+    <div class="swiper-slide">
+      <img src="/rosewood/images/guide03.jpg">
+      <div class="in-goto" action-type="goto.index">点击进入&gt;</div>
+    </div>
+  </div>
+</div>

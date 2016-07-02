@@ -1,0 +1,30 @@
+<div class="m-my">
+  <header>
+    <p>登陆</p>
+  </header>
+  <section>
+      <ul>
+        <li>
+          <i class="yo-ico"></i>
+          <input type="text" name="name" placeholder="请输入手机号" value="">
+        </li>
+        <li>
+          <i class="yo-ico"></i>
+          <input type="text" name="name" placeholder="请输入密码" value="">
+        </li>
+        <li>
+          <i class="yo-ico"></i>
+          <input type="text" name="name" placeholder="请输入验证码" value="">
+        </li>
+        <li>
+          <input type="button" name="name" value="登陆">
+        </li>
+        <li>
+          <input type="button" name="name" value="注册">
+        </li>
+      </ul>
+
+  </section>
+
+
+</div>

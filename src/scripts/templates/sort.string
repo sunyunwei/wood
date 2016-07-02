@@ -1,0 +1,96 @@
+<div class="sort-main">
+  <header>
+    <p>分类</p>
+  </header>
+  <section>
+   <div class="s-nav">
+      <div class="s-list" spa-widget="scroll">
+        <ul>
+          <li class="active">
+            <img src="/rosewood/images/sort1.jpg" alt="">
+            <p>家具</p>
+          </li>
+          <li>
+            <img src="/rosewood/images/sort2.jpg" alt="">
+            <p>珠串</p>
+          </li>
+          <li>
+            <img src="/rosewood/images/sort3.jpg" alt="">
+            <p>配饰</p>
+          </li>
+          <li>
+            <img src="/rosewood/images/sort4.jpg" alt="">
+            <p>文玩</p>
+          </li>
+          <li>
+            <img src="/rosewood/images/sort5.jpg" alt="">
+            <p>杂项</p>
+          </li>
+          <li>
+            <img src="/rosewood/images/sort6.jpg" alt="">
+            <p>书画</p>
+          </li>
+        </ul>
+      </div>
+      <div class="s-text" spa-widget="scroll">
+        <div>
+          <ul>
+            <p><span>床榻类</span><span>查看更多&gt;</span></p>
+            <li>
+              <ul>
+                <li><img src="/rosewood/images/sortc1.jpg" alt=""></li>
+                <li>现代床</li>
+                <li>￥100.00</li>
+              </ul>
+              <ul>
+                <li><img src="/rosewood/images/sortc2.jpg" alt=""></li>
+                <li>现代床</li>
+                <li>￥100.00</li>
+              </ul>
+            </li>
+            <li>
+              <ul>
+                <li><img src="/rosewood/images/sortc3.jpg" alt=""></li>
+                <li>现代床</li>
+                <li>￥100.00</li>
+              </ul>
+              <ul>
+                <li><img src="/rosewood/images/sortc4.jpg" alt=""></li>
+                <li>现代床</li>
+                <li>￥100.00</li>
+              </ul>
+            </li>
+          </ul>
+
+          <ul>
+            <p><span>桌案类</span><span>查看更多&gt;</span></p>
+            <li>
+              <ul>
+                <li><img src="/rosewood/images/sortc1.jpg" alt=""></li>
+                <li>现代床</li>
+                <li>￥100.00</li>
+              </ul>
+              <ul>
+                <li><img src="/rosewood/images/sortc2.jpg" alt=""></li>
+                <li>现代床</li>
+                <li>￥100.00</li>
+              </ul>
+            </li>
+            <li>
+              <ul>
+                <li><img src="/rosewood/images/sortc3.jpg" alt=""></li>
+                <li>现代床</li>
+                <li>￥100.00</li>
+              </ul>
+              <ul>
+                <li><img src="/rosewood/images/sortc4.jpg" alt=""></li>
+                <li>现代床</li>
+                <li>￥100.00</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>

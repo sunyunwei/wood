@@ -1,0 +1,81 @@
+
+<div class="m-store">
+  <header>
+    <ul>
+      <li>店铺</li>
+      <li>
+        <i class="yo-ico">&#xe679;</i>
+        <b>搜索</b>
+      </li>
+    </ul>
+  </header>
+  <nav>
+    <ul>
+      <li action-type="tap.home.slide" class="active">人气旺铺</li>
+      <p></p>
+      <li action-type="tap.home.slide">热门店铺</li>
+    </ul>
+  </nav>
+  <div class="main-store">
+  <div class="swiper-container" id="store-swiper" >
+    <div class="swiper-wrapper">
+      <div class="swiper-slide" >
+        <section spa-widget="scroll">
+          <div>
+            <ul>
+              <li>
+                <span><img src="/rosewood/images/storelog01.jpg" alt="" /></span>
+                <span>
+                  <p>红木官方店</p>
+                  <p>(24人已关注此店铺)</p>
+                </span>
+              </li>
+              <li><img src="/rosewood/images/storeban01.jpg" alt="" /></li>
+            </ul>
+            <ul>
+              <li>
+                <span><img src="/rosewood/images/storelog02.jpg" alt="" /></span>
+                <span>
+                  <p>名木香府</p>
+                  <p>(17人已关注此店铺)</p>
+                </span>
+              </li>
+              <li><img src="/rosewood/images/storeban02.jpg" alt="" /></li>
+            </ul>
+            <ul>
+              <li>
+                <span><img src="/rosewood/images/storelog03.jpg" alt="" /></span>
+                <span>
+                  <p>京作臻品阁</p>
+                  <p>(11人已关注此店铺)</p>
+                </span>
+              </li>
+              <li><img src="/rosewood/images/storeban03.jpg" alt="" /></li>
+            </ul>
+            <ul>
+              <li>
+                <span><img src="/rosewood/images/storelog04.jpg" alt="" /></span>
+                <span>
+                  <p>永胜核桃工艺品，耗牛角手串</p>
+                  <p>(1人已关注此店铺)</p>
+                </span>
+              </li>
+              <li><img src="/rosewood/images/storeban04.jpg" alt="" /></li>
+            </ul>
+          </div>
+        </section>
+      </div>
+     <div class="swiper-slide" >
+        <div spa-widget="scroll" >
+          <div>
+            <br/>1<br/>2<br/>3<br/>e<br/>d<br/>
+            <br/>f<br/>f<br/>h<br/>k<br/>l<br/>h<br/>f<br/>
+            <br/>f<br/>f<br/>h<br/>k<br/>l<br/>h<br/>f<br/>
+            <br/>f<br/>f<br/>h<br/>k<br/>l<br/>h<br/>f<br/>
+          </div>
+        </div>
+    </div>
+    </div>
+  </div>
+</div>
+</div>
