@@ -10,7 +10,7 @@
         <p>搜索</p>
       </li>
       <li>
-        <img src="images/h03.jpg" alt="" />
+        <img src="/rosewood/images/h03.jpg" alt="" />
       </li>
       <li>
         <i class="yo-ico">&#xe75a;</i>
@@ -60,38 +60,38 @@
         <ul>
           <li>
             <div class="line01">
-              <img src="images/v1.jpg" alt="" />
+              <img src="/rosewood/images/v1.jpg" alt="" />
             </div>
             <p>在线收银台</p>
           </li>
           <li>
             <div class="line01">
-              <img src="images/v2.jpg" alt="" />
+              <img src="/rosewood/images/v2.jpg" alt="" />
             </div>
             <p>藏有圈</p>
           </li>
           <li>
             <div class="line01">
-              <img src="images/v3.jpg" alt="" />
+              <img src="/rosewood/images/v3.jpg" alt="" />
             </div>
             <p>天天捡漏</p>
           </li>
           <li>
             <div class="line01">
-              <img src="images/v4.jpg" alt="" />
+              <img src="/rosewood/images/v4.jpg" alt="" />
             </div>
             <p>买手代购</p>
           </li>
           <li>
             <div class="line01">
-              <img src="images/v5.jpg" alt="" />
+              <img src="/rosewood/images/v5.jpg" alt="" />
             </div>
             <p>个性定制</p>
           </li>
         </ul>
       </div>
       <div class="grab-pic">
-        <img src="images/k01.jpg" alt="">
+        <img src="/rosewood/images/k01.jpg" alt="">
       </div>
       <p class="day-choiceness">
         每日精选
@@ -99,35 +99,35 @@
       <div class="l-pic" class="m-lifenav" spa-widget="scroll" data-scroll-id="lifenav-scroll">
         <div class="l-picf">
         <dl>
-          <dt><img src="images/d1.jpg" alt="" /></dt>
+          <dt><img src="/rosewood/images/d1.jpg" alt="" /></dt>
           <dd>￥80.00</dd>
         </dl>
         <dl>
-          <dt><img src="images/d2.jpg" alt="" /></dt>
+          <dt><img src="/rosewood/images/d2.jpg" alt="" /></dt>
           <dd>￥80.00</dd>
         </dl>
         <dl>
-          <dt><img src="images/d3.jpg" alt="" /></dt>
+          <dt><img src="/rosewood/images/d3.jpg" alt="" /></dt>
           <dd>￥80.00</dd>
         </dl>
         <dl>
-          <dt><img src="images/d4.jpg" alt="" /></dt>
+          <dt><img src="/rosewood/images/d4.jpg" alt="" /></dt>
           <dd>￥100.00</dd>
         </dl>
         <dl>
-          <dt><img src="images/d5.jpg" alt="" /></dt>
+          <dt><img src="/rosewood/images/d5.jpg" alt="" /></dt>
           <dd>￥150.00</dd>
         </dl>
         <dl>
-          <dt><img src="images/d6.jpg" alt="" /></dt>
+          <dt><img src="/rosewood/images/d6.jpg" alt="" /></dt>
           <dd>￥300.00</dd>
         </dl>
         <dl>
-          <dt><img src="images/d7.jpg" alt="" /></dt>
+          <dt><img src="/rosewood/images/d7.jpg" alt="" /></dt>
           <dd>￥100.00</dd>
         </dl>
         <dl>
-          <dt><img src="images/d8.jpg" alt="" /></dt>
+          <dt><img src="/rosewood/images/d8.jpg" alt="" /></dt>
           <dd>￥500.00</dd>
         </dl>
       </div>
@@ -139,7 +139,7 @@
         <ul ms-repeat-value="livelist">
           <li>
             <ul>
-              <li><img src="images/s01.jpg" ></li>
+              <li><img src="/rosewood/images/s01.jpg" ></li>
               <li ms-text="value.title"></li>
               <li ms-text="value.price"></li>
             </ul>
@@ -147,7 +147,7 @@
           <li></li>
           <li>
             <ul>
-              <li><img src="images/s02.jpg"></li>
+              <li><img src="/rosewood/images/s02.jpg"></li>
               <li ms-text="value.title"></li>
               <li ms-text="value.price"></li>
             </ul>
@@ -156,7 +156,7 @@
         <ul>
           <li>
             <ul>
-              <li><img src="images/s03.jpg" alt=""></li>
+              <li><img src="/rosewood/images/s03.jpg" alt=""></li>
               <li>小叶紫檀</li>
               <li>￥380.00</li>
             </ul>
@@ -164,7 +164,7 @@
           <li></li>
           <li>
             <ul>
-              <li><img src="images/s04.jpg" alt=""></li>
+              <li><img src="/rosewood/images/s04.jpg" alt=""></li>
               <li>小叶紫檀</li>
               <li>￥2680.00</li>
             </ul>
@@ -178,7 +178,7 @@
         <ul>
           <li>
             <ul>
-              <li><img src="images/s08.jpg" alt=""></li>
+              <li><img src="/rosewood/images/s08.jpg" alt=""></li>
               <li>小叶紫檀</li>
               <li>￥380.00</li>
             </ul>
@@ -186,7 +186,7 @@
           <li></li>
           <li>
             <ul>
-              <li><img src="images/s07.jpg" alt=""></li>
+              <li><img src="/rosewood/images/s07.jpg" alt=""></li>
               <li>小叶紫檀</li>
               <li>￥2680.00</li>
             </ul>
@@ -195,7 +195,7 @@
         <ul>
           <li>
             <ul>
-              <li><img src="images/s06.jpg" alt=""></li>
+              <li><img src="/rosewood/images/s06.jpg" alt=""></li>
               <li>小叶紫檀</li>
               <li>￥380.00</li>
             </ul>
@@ -203,7 +203,7 @@
           <li></li>
           <li>
             <ul>
-              <li><img src="images/s05.jpg" alt=""></li>
+              <li><img src="/rosewood/images/s05.jpg" alt=""></li>
               <li>小叶紫檀</li>
               <li>￥2680.00</li>
             </ul>
