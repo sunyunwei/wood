@@ -136,20 +136,20 @@
         <p>臻品阁</p><p>进入店铺&gt;</p>
       </div>
       <div class="z-pic">
-        <ul ms-repeat-value="livelist">
+        <ul>
           <li>
             <ul>
               <li><img src="/rosewood/images/s01.jpg" ></li>
-              <li ms-text="value.title"></li>
-              <li ms-text="value.price"></li>
+              <li>小叶紫檀</li>
+              <li>￥380.00</li>
             </ul>
           </li>
           <li></li>
           <li>
             <ul>
               <li><img src="/rosewood/images/s02.jpg"></li>
-              <li ms-text="value.title"></li>
-              <li ms-text="value.price"></li>
+              <li>小叶紫檀</li>
+              <li>￥380.00</li>
             </ul>
           </li>
         </ul>
